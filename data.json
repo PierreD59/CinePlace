@@ -1,0 +1,33 @@
+{
+    "cinema":  [
+        {
+            "id": 1,
+            "name": "Kinépolis",
+            "address": "1 Rue du Château d'Isenghien",
+            "postalcode": "59160",
+            "city": "Lille",
+            "long": 50.652739709296185,
+            "lat": 2.982667955789585
+        },
+        {
+            "id": 2,
+            "name": "UGC",
+            "address": "40 Rue de Béthune",
+            "postalcode": "59000",
+            "city": "Lille",
+            "country": "France",
+            "long": 50.63400333893811,
+            "lat": 3.06327899839155
+        },
+                {
+            "id": 3,
+            "name": "Imagix",
+            "address": "Bd Delwart 60",
+            "postalcode": "75000",
+            "city": "Tournai",
+            "country": "Belgique",
+            "long": 50.61547362184576,
+            "lat": 3.3885945948312752
+        }
+    ]
+}
