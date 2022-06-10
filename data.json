@@ -3,6 +3,7 @@
         {
             "id": 1,
             "name": "Kinépolis",
+            "picture": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Kin%C3%A9polis_Lomme_04.JPG",
             "address": "1 Rue du Château d'Isenghien",
             "postalcode": "59160",
             "city": "Lille",
@@ -12,6 +13,7 @@
         {
             "id": 2,
             "name": "UGC",
+            "picture": "https://www.lille.fr/var/www/storage/images/mediatheque/mairie-de-lille/visuels-annuaire/ugc/57609-1-fre-FR/UGC_news_image_top.jpg",
             "address": "40 Rue de Béthune",
             "postalcode": "59000",
             "city": "Lille",
@@ -22,6 +24,7 @@
                 {
             "id": 3,
             "name": "Imagix",
+            "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Facade_zonder_bloem.jpg/1200px-Facade_zonder_bloem.jpg",
             "address": "Bd Delwart 60",
             "postalcode": "75000",
             "city": "Tournai",
