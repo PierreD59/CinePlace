@@ -8,17 +8,13 @@ import { CinemaService } from '../services/cinema.service';
   styleUrls: ['./cinema.page.scss'],
 })
 export class CinemaPage implements OnInit {
-  cinemas!: Cinema[];
 
   constructor(private cinemaService: CinemaService) { }
 
   getAll(): void {
-    this.cinemaService.getAll().subscribe({
-      next: cinemas => this.cinemas = cinemas,
-    });
+    this.cinemaService.getAll().subscribe((__cinema: Cinema[]) => { console.log() });
   }
 
   ngOnInit() {
   }
-
 }
